@@ -13,6 +13,11 @@ angular.module('appRoutes', []).config(['$routeProvider', '$locationProvider', f
 			controller: 'AboutController'
 		})
 
+		.when('/contact', {
+			templateUrl: 'views/contact.html',
+			controller: 'ContactController'
+		})
+
 		.when('/resume', {
 			templateUrl: 'views/resume.html',
 			controller: 'ResumeController'	
