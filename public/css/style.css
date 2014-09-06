@@ -123,6 +123,11 @@ a:link, a:visited {
   background: url(images/tiwt.png) no-repeat left center;
 }
 
+.right {
+    float: right;
+    margin-right: 15px;
+}
+
 .icons
 {
   margin-right: 3px;
