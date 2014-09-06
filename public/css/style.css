@@ -156,6 +156,11 @@ h4{
   margin-right: 5px;
 }
 
+.pad_left {
+  margin-left: 20px;
+  margin-bottom: 19px;
+}
+
 .line-right {
   margin-right: -1px;
   border-right: 10px white;
