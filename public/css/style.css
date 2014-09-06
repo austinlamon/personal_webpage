@@ -69,8 +69,20 @@ body { padding-top:30px; }
 	z-index: -1;
 	opacity:0.8;
 	color:#fff;
-
 }
+
+.bg3 {
+  background: url('/images/storm.jpg') no-repeat center center;
+  position: fixed;
+  width: 100%;
+  height: 800px;
+  top:0px;
+  left:0;
+  z-index: -1;
+  opacity:0.8;
+  color:#fff;
+}
+
 
 a:link, a:visited {
 	color:#eee;
