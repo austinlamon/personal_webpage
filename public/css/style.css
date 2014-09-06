@@ -139,3 +139,7 @@ h4{
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.69);
   -webkit-font-smoothing: antialiased;
 }
+
+.pad_right {
+  margin-right: 5px;
+}
